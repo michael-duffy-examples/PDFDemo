@@ -2,7 +2,7 @@
 
 ## Summary
 
-Using PDFSharp to place one or more jpeg images ontp PDF pages.
+Using PDFSharp to place one or more jpeg images onto PDF pages.
 
 ## About
 
