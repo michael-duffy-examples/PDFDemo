@@ -1,8 +1,4 @@
-<snippet>
-
-  <content><![CDATA[
-
-# ${1:Project Name}
+# PDFDemo
 
 ## Summary
 
@@ -29,10 +25,6 @@ The first (and so far latest) version was published on 04-APR-2020.
 
 ## License
 
-This repository falls under an MIT license.  Please see the LICENSE.md file.
+This repository falls under an MIT license.  Please see the LICENSE file.
 
-]]></content>
 
-  <tabTrigger>readme</tabTrigger>
-
-</snippet>
